@@ -49,12 +49,4 @@ Contributions to improve this Tic Tac Toe game are welcome. If you'd like to con
 4. Push your changes to your forked repository.
 5. Submit a pull request detailing your changes.
 
-Please ensure that your code follows the existing code style and includes appropriate tests.
-
-fs.writeFile('README.md', readmeContent, (err) => {
-  if (err) {
-    console.error(err);
-  } else {
-    console.log('README.md file has been created successfully.');
-  }
-});
+## Thank You
