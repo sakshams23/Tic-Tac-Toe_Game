@@ -1,7 +1,13 @@
 ## Tic Tac Toe Game using Javascript
 
 This is a simple Tic Tac Toe game built using JavaScript. It allows two players to take turns and play the classic game on a web browser.
+<br>
+<br>
+⭕ **This Site is Fully Responsive**
+<br>
+<br>
 
+## 📌 **Live Site URL:** <a href="https://tic-tac-toe-bysakshams23.netlify.app/">**Visit Now** 🚀</a>
 ## Table of Contents
 
 - [Installation](#installation)
