@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F1F7F4&width=441&height=55&lines=Glad+to+see+you+here+inside+my+Repo-%22Tic-Tac-Toe_Game%22)](https://git.io/typing-svg)
 ## Tic Tac Toe Game using Javascript
 
 This is a simple Tic Tac Toe game built using JavaScript. It allows two players to take turns and play the classic game on a web browser.
